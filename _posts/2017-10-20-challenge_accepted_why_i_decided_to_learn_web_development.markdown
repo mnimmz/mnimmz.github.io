@@ -1,11 +1,12 @@
 ---
 layout: post
 title:      "Challenge Accepted: Why I decided to learn Web Development"
-date:       2017-10-20 23:34:28 +0000
+date:       2017-10-20 19:34:29 -0400
 permalink:  challenge_accepted_why_i_decided_to_learn_web_development
 ---
 
-![](https://imgur.com/a/WWfxs)
+![Photo by Luca Bravo on Unsplash](https://imgur.com/a/WWfxs)
+
 I was always fascinated with all things tech. This started when I took my first computer class in Kindergarten. In my house, I was the go-to person to fix any electronics that weren't functioning properly (it's still like this in my house to this day). 
 
 When I was deciding which major to choose in college, Computer Science was at the top of my list. However, math scared me away from it. Instead, I graduated with a Bachelor's in Communications and pursued a career in Marketing. While being at my first job out of college as a Social Media Marketing Assistant, I got exposed to Adobe CC apps like Photoshop, Illustrator, and InDesign and I fell in love (design and art are my other hobbies), so I decided to go back to my Alma Mater for an AS in Graphic Design. 
