@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Getting Started With HTML & CSS"
-date:       2017-11-11 01:46:56 +0000
+date:       2017-11-10 20:46:57 -0500
 permalink:  getting_started_with_html_and_css
 ---
 
